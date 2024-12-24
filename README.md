@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on**Some Basic project for learning purpose**
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Multiple self made project for learning purpose**
 
-- 🤝 I’m looking for help with **Learning CSS and making project related to that**
+- 🤝 I’m looking for help with **Learning Javascript and making project related to that**
 
 - 📫 How to reach me **kritiyadavcoding@gmail.com**
 
@@ -24,5 +24,6 @@ Linkedin link: https://www.linkedin.com/in/kriti-yadav-22951b295?utm_source=shar
   C++
   C-programming
   DSA
-  CP  
+  CP 
+  Javascript     
 </pre>
