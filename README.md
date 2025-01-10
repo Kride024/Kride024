@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kriti Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alig="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=keyword&page=1&position=1&uuid=b58ec1c7-feb0-4ed6-869e-830101544740&new_detail=true">
+<img alig="right" alt="coding" width="400" src="[https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=keyword&page=1&position=1&uuid=b58ec1c7-feb0-4ed6-869e-830101544740&new_detail=true](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1736536393~exp=1736539993~hmac=e500e302f616067af86fa56ada98dd5bc08f87241ee893740a3a2112449a1cc7&w=740)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kride024&label=Profile%20views&color=0e75b6&style=flat" alt="kride024" /> </p>
