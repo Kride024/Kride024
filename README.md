@@ -30,7 +30,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kriti_yadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kriti_yadav" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kride024&show_icons=true&locale=en&layout=compact" alt="kride024" /></p>
+<pre><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kride024&show_icons=true&locale=en&layout=compact" alt="kride024" /></pre>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kride024&show_icons=true&locale=en" alt="kride024" /></p>
 
