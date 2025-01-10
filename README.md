@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kride024&label=Profile%20views&color=0e75b6&style=flat" alt="kride024" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img alig="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1736536393~exp=1736539993~hmac=e500e302f616067af86fa56ada98dd5bc08f87241ee893740a3a2112449a1cc7&w=740">
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **JavaScript , CSS ,HTML ,C++ ,C-Programming**
