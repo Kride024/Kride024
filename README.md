@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kritiyadavcoding@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I’m not lazy, I’m just on energy-saving mode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
