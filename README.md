@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **JavaScript , CSS ,HTML ,C++ ,C-Programming**
+- 💬 Ask me about **JavaScript , CSS ,HTML ,C++ ,C-Programming,Git**
 
 - 📫 How to reach me **kritiyadavcoding@gmail.com**
 
