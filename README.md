@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about **Node js ,React js ,MongoDB ,JavaScript ,C++  ,Git ,**
+- 💬 Ask me about **Node js ,React js ,MongoDB ,JavaScript ,C++  ,Git**
 
 - 📫 How to reach me **kritiyadavcoding@gmail.com**
 
