@@ -54,13 +54,7 @@
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=kride024" width="400" />
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kride024&theme=dark&hide_border=true" width="400"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-kride024.vercel.app/api/top-langs/?username=kride024&layout=compact&theme=dark" width="400"/>
-</p>
 
 
 
