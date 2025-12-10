@@ -50,9 +50,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kriti_yadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kriti_yadav" /></a></p><br><br><br>
 
-<p align="center">
+
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=kride024" width="400" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kride024&theme=dark&hide_border=true" width="400"/>
