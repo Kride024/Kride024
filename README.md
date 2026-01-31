@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kriti Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1736536393~exp=1736539993~hmac=e500e302f616067af86fa56ada98dd5bc08f87241ee893740a3a2112449a1cc7&w=740">
 
 
