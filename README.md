@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Node js ,React js ,MongoDB ,JavaScript ,C++  ,Git**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **ky740837@gmail.com**
 
